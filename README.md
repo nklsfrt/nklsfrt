@@ -1,5 +1,4 @@
-Hey, I'm Niklas!
-
+Hey, I'm Niklas!<br />
 
 My (relevant) interests are:
 
@@ -7,6 +6,11 @@ My (relevant) interests are:
   🔐  Encryption and Security <br />
   🌐  Networking <br />
   🧮  Computer Science and Mathematics <br />
+  
+Curruntly I'm working on:
+
+  - Moving all my infrastructure to a resilient IaC setup <br />
+  - Seperating my service stacks into their own repo <br />
 
 <!---
 nklsfrt/nklsfrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
