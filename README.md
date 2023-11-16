@@ -6,12 +6,6 @@ My (relevant) interests are:
   🔐  Encryption and Security <br />
   🌐  Networking <br />
   🧮  Computer Science and Mathematics <br />
-  
-Curruntly I'm working on:
-
-  Moving all my infrastructure to a resilient [IaC setup](https://github.com/nklsfrt/infra). <br />
-  Seperating my service stacks into their [own repo](https://github.com/nklsfrt/stacks). <br />
-  A little [Python script](https://github.com/nklsfrt/deskhide) to easily hide .desktop entries in ones DE/launcher. <br />
 
 <!---
 nklsfrt/nklsfrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
